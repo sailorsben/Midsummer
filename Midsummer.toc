@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: Midsummer
+## Author: Gwythian of Kel'Thuzad
+## Notes: Designed to assist players with the Midsummer Fires.
+
+midsummer.xml
+data.lua
+instructions.lua
+checkInput.lua
+slashcommands.lua
+core.lua
